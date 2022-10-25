@@ -8,7 +8,4 @@
 - 📚 I occasionally write blogs on [Hackster.io](https://www.hackster.io/peterokwara) or [Dev.to](https://dev.to/peterokwara)
 - 📢My talks and slides can be found on [speakerdeck](https://speakerdeck.com/peterokwara)
 - 📫 You can reach me on [Twitter](https://twitter.com/peterokwara) or [Linkedin](https://www.linkedin.com/in/peterokwara/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterokwara)](https://github.com/anuraghazra/github-readme-stats)
-
-💼 Check out some of my work here 👇🏿
+- 💼 Check out some of my work here 👇🏿
